@@ -1,7 +1,9 @@
-👋 Welcome to my profile
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to my profile
+
+=============================================================================================================================================
 
 ### <div align="center">I'm a Senior Full-stack Developer!</div>  
-  
+------------------------------------
 
 - 🔭 I’m currently working on Blockchain, Three.js and Python, Next in depth.
   
